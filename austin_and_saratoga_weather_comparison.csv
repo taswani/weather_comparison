@@ -1,0 +1,2 @@
+austin temp,saratoga temp,austin feels_like,saratoga feels_like,austin temp_min,saratoga temp_min,austin temp_max,saratoga temp_max,austin pressure,saratoga pressure,austin humidity,saratoga humidity,"austin city, state","saratoga city, state",austin dt,saratoga dt,temp_diff,humidity_diff,pressure_diff,temp_max_diff,temp_min_diff
+86.99,68.23,91.87,67.91,83.57,57.94,89.87,73.58,1011,1017,57,67,"austin, tx","saratoga, ca",2021-09-19,2021-09-19,18.75999999999999,-10,-6,16.290000000000006,25.629999999999995
